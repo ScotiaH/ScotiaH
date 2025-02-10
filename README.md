@@ -6,4 +6,6 @@
 
 * If all goes well I may eventually have some code of my own to upload.
 
+* I ought to also add that I am a rather old dog to be trying to learn new tricks!!
+
 -->
